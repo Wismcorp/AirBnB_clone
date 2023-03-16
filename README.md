@@ -114,4 +114,6 @@ help or help <command> Ex:
 * Review
 
 # Authors
-* Besthor Igbe <igbebestor7@gmail.com>
+* Olushola Michael <wismcorp@gmail.com>
+* Daniel Onoja <Danielabel50@yahoo.com>
+
